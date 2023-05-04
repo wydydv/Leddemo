@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.handheld.uhfr.MainActivity" >
+
+    <item
+        android:id="@+id/action_file"
+        android:orderInCategory="100"
+        android:title="导入文件"/>
+
+</menu>
